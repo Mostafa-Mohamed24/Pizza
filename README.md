@@ -8,7 +8,7 @@ A simple **Windows Forms (C# / .NET Framework)** desktop application that lets t
 
 | Main Screen | Order Screen |
 |:---:|:---:|
-| ![Main](screenshots/main.jpeg) | ![Order](screenshots/order.jpeg) |
+| ![Main](D:\Courses\Abo-Hadhoud Courses\Phase 2\14 - C# - Level 1\Pizza Project UI\WhatsApp Image 2026-10-12 at 12.26.53 AM.jpeg) | ![Order](screenshots/order.jpeg) |
 
 | Checkout Screen | Confirm Dialog | Success Dialog |
 |:---:|:---:|:---:|
