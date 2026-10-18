@@ -4,20 +4,6 @@ A simple **Windows Forms (C# / .NET Framework)** desktop application that lets t
 
 ---
 
-## 📸 Screenshots
-
-| Main Screen | Order Screen |
-|:---:|:---:|
-| ![Main](screenshots/main.jpeg) | ![Order](screenshots/order.jpeg) |
-
-| Checkout Screen | Confirm Dialog | Success Dialog |
-|:---:|:---:|:---:|
-| ![Checkout](screenshots/checkout.jpeg) | ![Confirm](screenshots/confirm.jpeg) | ![Done](screenshots/done.jpeg) |
-
-> Put your screenshots inside a `screenshots/` folder in the repository with the names above (or update the paths).
-
----
-
 ## ✨ Features
 
 - Welcome screen with **Get Started** and **Exit** buttons.
@@ -158,12 +144,6 @@ and shows it in the labels. On **Check Out**:
 
 ---
 
-## 👤 Author
-
-**Your Name**
-- GitHub: [@your-username](https://github.com/your-username)
-
----
 
 ## 📄 License
 
