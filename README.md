@@ -123,13 +123,7 @@ and shows it in the labels. On **Check Out**:
 - Windows OS
 - [Visual Studio](https://visualstudio.microsoft.com/) with the **.NET desktop development** workload
 
-### Run the project
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/<your-username>/<your-repo-name>.git
-   ```
-2. Open the `.sln` file with Visual Studio.
-3. Press **F5** (or click **Start**) to build and run.
+
 
 ---
 
